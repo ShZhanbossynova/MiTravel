@@ -1,0 +1,10 @@
+@import url('./_normalize.css');
+@import url('./_base.css');
+@import url('./_variables.css');
+@import url('./_overall.css');
+
+
+@import url(./components/_header.css);
+@import url(./components/_first.css);
+@import url(./components/_become.css);
+@import url(./components/_featured.css);
